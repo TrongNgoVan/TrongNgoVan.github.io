@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to the Numba library
-date: '2017-09-12 10:48'
+date: '2024-09-18 10:48'
 excerpt: >-
   The Numba library allows you to achieve near C/C++/Fortran performance with
   your Python code without many code changes. This post will introduce the

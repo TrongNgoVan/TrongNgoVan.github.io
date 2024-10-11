@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Numba series part 2: Custom data types and parallelization'
-date: '2017-09-25 15:04'
+date: '2024-10-01 15:04'
 excerpt: >-
   Here we will focus on how we can use custom data types inside of Numba
   optimized functions as well as parallelization.

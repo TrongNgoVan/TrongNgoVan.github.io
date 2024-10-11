@@ -1,8 +1,40 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle:
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+## About Me
+
+I am currently a student majoring in **Information Systems** at the **Faculty of Information Technology**, **Posts and Telecommunications Institute of Technology (PTIT)** in **Hanoi, Vietnam**. My passion lies in exploring fields related to **science** and **technology** for practical applications, particularly in:
+
+- **Data Science**
+- **Artificial Intelligence (AI)**
+- **Internet of Things (IoT)**
+
+### Research Projects
+
+I have participated in various research projects, including:
+
+- **Healthcare**:
+  - Brain tumor diagnosis using **Graph Neural Networks**
+  - Simulating cell trajectories
+  - Predicting pathologies
+
+- **Economics**:
+  - Analyzing the growth of **E-commerce** over time
+
+### Technical Experience
+
+Additionally, I have experience in:
+
+- Developing **e-commerce websites** for business and managing rental properties
+- Building **distributed data systems** for managing information and transactions in banking and employee management systems
+
+### Recent Work
+
+Recently, I have worked with **embedded systems** and **IoT**, particularly using microcontrollers like **ESP32** and **ESP32-CAM** to develop intelligent IoT applications.
+
+### Aspirations
+
+I aspire to continue expanding my knowledge and skills to apply advanced technologies to practical issues, contributing to improving the quality of life and benefiting the community.
