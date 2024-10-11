@@ -33,7 +33,7 @@ Additionally, I have experience in:
 
 ### Recent Work
 
-Recently, I have worked with **embedded systems** and **IoT**, particularly using microcontrollers like **ESP32** and **ESP32-CAM** to develop intelligent IoT applications.
+Recently, I have worked with **embedded systems** and **IoT**, particularly using microcontrollers to develop intelligent IoT applications.
 
 ### Aspirations
 
